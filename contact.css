@@ -145,8 +145,8 @@ nav #button {
     width:100%;
     height:100vh;
     background: linear-gradient(rgba(250,250,250, 0.2),
-rgba(250,250,250, 0.2)), url('./images/pexels-sergio-souza-1779416.jpg');
-   /* background-image:url("/images/pexels-sergio-souza-1779416.jpg"); */
+rgba(250,250,250, 0.2)), url('/pexels-sergio-souza-1779416.jpg');
+   /* background-image:url("/pexels-sergio-souza-1779416.jpg"); */
    background-size: cover;
    background-repeat: no-repeat;
    display: flex;
@@ -158,7 +158,7 @@ rgba(250,250,250, 0.2)), url('./images/pexels-sergio-souza-1779416.jpg');
 }
 /* .main::before{
     content: "";
-    background-image:url("/images/pexels-sergio-souza-1779416.jpg");
+    background-image:url("/pexels-sergio-souza-1779416.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
